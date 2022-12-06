@@ -1,4 +1,4 @@
-module github.com/sbasestarter/libexpression
+module github.com/sgostarter/libexpression
 
 go 1.19
 
